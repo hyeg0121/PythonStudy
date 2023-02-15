@@ -15,6 +15,6 @@ question_list = {
 }
 
 for question in question_list:
-    print(question[i])
+    print(question)
     answer = input("답을 입력하세요 : ")
 
